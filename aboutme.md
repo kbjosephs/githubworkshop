@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Hello Word in Markdown
+title: Kelly Baker Josephs
 ---
-
-# Kelly Baker Josephs
 
 ## About me 
 
